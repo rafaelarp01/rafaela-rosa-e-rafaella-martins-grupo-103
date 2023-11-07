@@ -1,1 +1,3 @@
-# rafaela-rosa-e-rafaella-martins-grupo-103
+github.svg
+linkedin.svg
+youtube.svg
